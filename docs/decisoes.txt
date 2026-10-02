@@ -1,0 +1,1 @@
+Registrar requisitos e decisões antes da implementação.
